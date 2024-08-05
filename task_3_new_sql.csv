@@ -1,0 +1,11 @@
+"test_id","test_name","patient_name","age"
+16,"thyroid_panel","wilson",30
+17,"CBC","shrawani",10
+19,"liver_function_test","kishor",40
+11,"fasting_sugar","sangita",12
+12,"postmeal_sugar","reena",55
+13,"widal","ramesh",35
+21,"urine_routine","dimple",15
+14,"cbc","john",20
+15,"HBsAG","robin",35
+20,"kidney_function_test","robin",23
